@@ -1,0 +1,4 @@
+.vagrant
+certificates/*.p12
+certificates/*.pem
+certificates/jssecacerts
